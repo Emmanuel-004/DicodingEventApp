@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DicodingEventApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Upcoming</string>
+    <string name="title_notifications">Finished</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_settings">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register">Register</string>
+    <string name="selamat_datang">Selamat Datang !</string>
+    <string name="dicoding_event">Di Dicoding Event</string>
+    <string name="upcoming_event">Upcoming Events</string>
+    <string name="finished_event">Finished Events</string>
+</resources>
